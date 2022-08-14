@@ -21,3 +21,5 @@
 
 
 Article: https://medium.com/@dibasbehera/solving-real-time-queries-using-java-8-features-ea8a33771690
+
+Further Reading: https://www.baeldung.com/java-8-streams
