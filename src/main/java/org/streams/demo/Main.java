@@ -211,7 +211,7 @@ public class Main {
                 .sorted(Comparator.comparingDouble(emp -> emp.getSalary()))
                 .limit(2)
                 .collect(Collectors.toList());
-        System.out.format("Highest Paid Employee: %s\n", highestPaidEmployees.get(2));
+        System.out.format("Highest Paid Employee: %s\n", highestPaidEmployees.get(1));
     }
 
 
