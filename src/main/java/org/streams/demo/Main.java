@@ -1,4 +1,4 @@
-package org.lamda;
+package org.streams.demo;
 
 import lombok.NonNull;
 
